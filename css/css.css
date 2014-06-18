@@ -1,0 +1,103 @@
+body 
+
+{
+	background-color: #e8ddce;
+	max-width: 1200px;
+	max-height: 1200px;
+}
+
+
+.intro h1
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 36px;
+	text-align: center;
+}
+
+.intro h2
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 28px;
+	text-align: center;
+}
+
+.intro img
+
+{
+	max-width: 600px;
+	max-height: 350px;
+	margin-left: 35%;
+	border: 5px;
+	border-style: dashed;
+	border-color: #333;
+}
+
+.tekst p
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 18px;
+	margin-left: 5%;	
+} 
+
+.erfaring img 
+
+{
+	max-width: 400px;
+	max-height: 350px;
+	margin-left: 35%;
+	margin-top: 2%;
+}
+
+.utdanning img 
+
+{
+	max-width: 400px;
+	max-height: 350px;
+	margin-left: 40%;
+	margin-bottom: 2%;
+}
+
+.erfaring h3, .utdanning h3, .portfolio h3
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 24px;
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+.erfaring p, .utdanning p, .portfolio p
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 16px;
+	text-align: center;
+	margin-bottom: 5%;
+} 
+
+.portofolio h3, .utdanning h4
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 2%;
+}
+
+.portofolio a 
+
+{	text-decoration: none;
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 18px;
+}
+
