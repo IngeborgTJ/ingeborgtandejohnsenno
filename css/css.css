@@ -30,7 +30,7 @@ body
 {
 	max-width: 600px;
 	max-height: 350px;
-	margin-left: 35%;
+	margin-left: 33%;
 	border: 5px;
 	border-style: dashed;
 	border-color: #333;
@@ -42,7 +42,7 @@ body
 	font-family: Garamond, Times;
 	color: #333;
 	font-size: 18px;
-	margin-left: 5%;	
+	margin-left: 10%;	
 } 
 
 .erfaring img 
@@ -59,7 +59,7 @@ body
 {
 	max-width: 400px;
 	max-height: 350px;
-	margin-left: 40%;
+	margin-left: 38%;
 	margin-bottom: 2%;
 }
 
