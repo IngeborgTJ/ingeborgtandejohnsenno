@@ -28,9 +28,9 @@ body
 .intro img
 
 {
-	max-width: 600px;
-	max-height: 350px;
-	margin-left: 33%;
+	max-width: 60%;
+	max-height: 60%;
+	margin-left: 32%;
 	border: 5px;
 	border-style: dashed;
 	border-color: #333;
@@ -42,35 +42,35 @@ body
 	font-family: Garamond, Times;
 	color: #333;
 	font-size: 18px;
-	margin-left: 10%;	
+	margin-left: 16%;	
 } 
 
 .erfaring img 
 
 {
-	max-width: 400px;
-	max-height: 350px;
-	margin-left: 35%;
+	max-width: 28%;
+	max-height: 28%;
+	margin-left: 40%;
 	margin-top: 2%;
 }
 
 .utdanning img 
 
 {
-	max-width: 400px;
-	max-height: 350px;
-	margin-left: 38%;
+	max-width: 28%;
+	max-height: 28%;
+	margin-left: 41%;
 	margin-bottom: 2%;
 }
 
-.erfaring h3, .utdanning h3, .portfolio h3
+.erfaring h3, .utdanning h3, .portfolio h3 
 
 {
 	font-family: Garamond, Times;
 	color: #333;
 	font-size: 24px;
 	text-align: center;
-	margin-bottom: 5%;
+	margin-bottom: 4%;
 }
 
 .erfaring p, .utdanning p, .portfolio p
@@ -98,6 +98,24 @@ body
 {	text-decoration: none;
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 18px;
+	font-size: 20px;
+}
+
+.kontakt h3
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 24px;
+	text-align: center;
+	margin-top: 4%;
+}
+
+.kontakt #linkedin img, .kontakt #email img
+
+{
+	max-width: 28%;
+	max-height: 28%;
+	margin-left: 41%;
 }
 
