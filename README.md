@@ -1,4 +1,6 @@
-ingeborgtandejohnsen.no
+ingeborgtandejohnsen.no - http://ingeborgtandejohnsen.no/
 =============================
 
-Dette er en personlig nettside der du kan se min erfaring.
+På denne websiden finner du et utdrag fra min CV, samt kontaktinformasjon. 
+
+Vil du kontakte meg? Send en mail til ingeborg@ingeborgtandejohnsen.no.
