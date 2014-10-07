@@ -49,17 +49,17 @@ body
 	font-family: Garamond, Times;
 	color: #333;
 	font-size: 18px;
-	margin-left: 25%;
+	margin-left: 18%;
 }
 
 .erfaring img 
 
 {
-	max-width: 50%;
-	max-height: 50%;
+	max-width: 38%;
+	max-height: 38%;
 	display: block;
 	margin: auto;
-	margin-top: 2%;
+	margin-top: 4%;
 }
 
 .utdanning img 
@@ -69,7 +69,16 @@ body
 	max-height: 50%;
 	display: block;
 	margin: auto;
-	margin-bottom: 2%;
+}
+
+.erfaring h2
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 36px;
+	text-align: center;
+	margin-top: 3%;
 }
 
 .erfaring h3, .utdanning h3, .portfolio h3 
@@ -79,7 +88,7 @@ body
 	color: #333;
 	font-size: 24px;
 	text-align: center;
-	margin-bottom: 4%;
+	margin-top: 3%;
 }
 
 .erfaring p, .utdanning p, .portfolio p
@@ -89,7 +98,6 @@ body
 	color: #333;
 	font-size: 16px;
 	text-align: center;
-	margin-bottom: 5%;
 } 
 
 .portofolio h3, .utdanning h4
@@ -99,7 +107,7 @@ body
 	color: #333;
 	font-size: 20px;
 	text-align: center;
-	margin-top: 2%;
+	margin-top: 4%;
 }
 
 .portofolio a 
