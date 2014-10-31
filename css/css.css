@@ -13,6 +13,15 @@ body
 	max-height: 100%;
 }
 
+.language_info
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 14px;
+	margin-left: 3%;
+}
+
 .intro img
 
 {
