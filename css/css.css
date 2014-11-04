@@ -64,8 +64,8 @@ body
 .erfaring img 
 
 {
-	max-width: 26%;
-	max-height: 26%;
+	max-width: 30%;
+	max-height: 30%;
 	display: block;
 	margin: auto;
 	margin-top: 4%;
@@ -128,7 +128,7 @@ body
 	margin-bottom: 5%;
 }
 
-.kontakt h3
+.kontakt h3, .github h3
 
 {
 	font-family: Garamond, Times;
@@ -146,9 +146,35 @@ body
 .kontakt #kontaktinfo li a img
 
 {
-	max-width: 50%;
-	max-height: 50%;
+	max-width: 60%;
+	max-height: 60%;
 	display: block;
 	margin: auto;
 	margin-top: 2%;
 }	
+
+.kontakt #kontaktinfo li h3 
+
+{
+	
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 24px;
+	text-align: center;
+}
+
+.github ul li
+
+{
+	list-style: none;
+}
+
+.github li a img 
+
+{
+	max-width: 50%;
+	max-height: 50%;
+	display: block;
+	margin: auto;
+	margin-top: 4%;
+}
