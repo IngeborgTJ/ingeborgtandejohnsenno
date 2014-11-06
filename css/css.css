@@ -100,9 +100,18 @@ body
 	margin-top: 3%;
 }
 
-.erfaring p, .utdanning p, .portfolio p
+.erfaring p
 
 {
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 16px;
+	margin-left: 2%;
+} 
+
+ .utdanning p, .portfolio p
+
+ {
 	font-family: Garamond, Times;
 	color: #333;
 	font-size: 16px;
