@@ -6,6 +6,26 @@ body
 	max-height: 100%;
 }
 
+.language nav
+
+{
+	width: 100%;
+}
+
+.language nav a
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 28px;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 2%;
+
+}
+ 
 .intro 
 
 {
@@ -13,14 +33,6 @@ body
 	max-height: 100%;
 }
 
-.language_info
-
-{
-	font-family: Garamond, Times;
-	color: #333;
-	font-size: 14px;
-	margin-left: 3%;
-}
 
 .intro img
 
@@ -155,8 +167,8 @@ body
 .kontakt #kontaktinfo li a img
 
 {
-	max-width: 60%;
-	max-height: 60%;
+	max-width: 50%;
+	max-height: 50%;
 	display: block;
 	margin: auto;
 	margin-top: 2%;
