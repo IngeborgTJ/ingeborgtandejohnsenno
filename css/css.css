@@ -6,6 +6,16 @@ body
 	max-height: 100%;
 }
 
+.twitter-timeline
+
+{
+	display: block;
+	margin: 0 auto;
+	max-height: 250px;
+	max-width: 520px;
+	margin-bottom: 2%;
+}
+
 .language nav
 
 {
@@ -23,7 +33,6 @@ body
 	display: block;
 	margin: 0 auto;
 	margin-bottom: 2%;
-
 }
  
 .intro 
@@ -37,8 +46,8 @@ body
 .intro img
 
 {
-	max-width: 30%;
-	max-height: 30%;
+	max-width: 50%;
+	max-height: 50%;
 	margin: 0 auto;
 	display: block;
 	border: 5px;
@@ -130,7 +139,7 @@ body
 	text-align: center;
 } 
 
-.portofolio h3, .utdanning h4
+ .utdanning h4
 
 {
 	font-family: Garamond, Times;
@@ -140,7 +149,7 @@ body
 	margin-top: 4%;
 }
 
-.portofolio a 
+.portfolio a 
 
 {	text-decoration: none;
 	font-family: Garamond, Times;
@@ -193,8 +202,8 @@ body
 .github li a img 
 
 {
-	max-width: 50%;
-	max-height: 50%;
+	max-width: 30%;
+	max-height: 30%;
 	display: block;
 	margin: auto;
 	margin-top: 4%;
