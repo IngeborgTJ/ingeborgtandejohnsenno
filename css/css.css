@@ -101,22 +101,12 @@ body
 	margin: auto;
 }
 
-.erfaring h2
-
-{
-	font-family: Garamond, Times;
-	color: #333;
-	font-size: 36px;
-	text-align: center;
-	margin-top: 3%;
-}
-
 .erfaring h3, .utdanning h3, .portfolio h3 
 
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 24px;
+	font-size: 26px;
 	text-align: center;
 	margin-top: 3%;
 }
