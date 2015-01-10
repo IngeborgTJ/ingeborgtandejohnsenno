@@ -6,6 +6,13 @@ body
 	max-height: 100%;
 }
 
+.conttent_wrapper 
+
+{
+	width: 100%;
+	height: 100%;
+}
+
 .twitter-timeline
 
 {
@@ -120,7 +127,7 @@ body
 	margin-left: 2%;
 } 
 
- .utdanning p, .portfolio p
+ .utdanning p, .portfolio p .intro p
 
  {
 	font-family: Garamond, Times;
