@@ -78,15 +78,65 @@ body
 	color: #333;
 	font-size: 28px;
 	text-align: center;
+	margin-top: 2%;
 } 
 
-.tekst p
+.hovedpunkter h3
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 3%;
+}
+
+.hovedpunkter ol li, .hovedpunkter ul li
+
+{
+	font-family: Garamond bold, Times;
+	color: #333;
+	font-size: 18px;
+	margin-left: 25%;
+	margin-top: 1%;
+}
+
+.english_hovedpunkter h3
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 3%;
+}
+
+.english_hovedpunkter ol li, .english_hovedpunkter ul li
+
+{
+	font-family: Garamond bold, Times;
+	color: #333;
+	font-size: 18px;
+	margin-left: 23%;
+	margin-top: 1%;
+}
+
+.intro_tekst p
 
 {
 	font-family: Garamond, Times;
 	color: #333;
 	font-size: 18px;
-	margin-left: 18%;
+	margin-left: 15%;
+}
+
+.english_intro_tekst p
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 18px;
+	margin-left: 20%;
 }
 
 .erfaring img 
@@ -96,7 +146,7 @@ body
 	max-height: 20%;
 	display: block;
 	margin: auto;
-	margin-top: 4%;
+	margin-top: 5%;
 }
 
 .utdanning img 
@@ -106,6 +156,7 @@ body
 	max-height: 50%;
 	display: block;
 	margin: auto;
+	margin-top: 3%;
 }
 
 .erfaring h3, .utdanning h3, .portfolio h3 
@@ -136,7 +187,7 @@ body
 	text-align: center;
 } 
 
- .utdanning h4
+.utdanning h4
 
 {
 	font-family: Garamond, Times;
@@ -155,14 +206,16 @@ body
 	margin-bottom: 5%;
 }
 
-.kontakt h3, .github h3
+.kontakt h3 
 
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 24px;
+	font-size: 26px;
 	text-align: center;
+	margin-top: 3%;
 }
+
 
 .kontakt #kontaktinfo ul li
 
@@ -173,8 +226,8 @@ body
 .kontakt #kontaktinfo li a img
 
 {
-	max-width: 30%;
-	max-height: 30%;
+	max-width: 35%;
+	max-height: 35%;
 	display: block;
 	margin: auto;
 	margin-top: 2%;
@@ -186,8 +239,18 @@ body
 	
 	font-family: Garamond, Times;
 	color: #333;
+	font-size: 26px;
+	text-align: center;
+}
+
+.github h3
+
+{
+	font-family: Garamond, Times;
+	color: #333;
 	font-size: 24px;
 	text-align: center;
+	margin-top: 5%;
 }
 
 .github ul li
