@@ -23,10 +23,18 @@ body
 	margin-bottom: 2%;
 }
 
+.video video
+
+{
+	display: block;
+	margin: 0 auto;
+}
+
 .language nav
 
 {
 	width: 100%;
+	margin-top: 2%;
 }
 
 .language nav a
