@@ -16,11 +16,10 @@ body
 .twitter-timeline
 
 {
-	display: block;
-	margin: 0 auto;
 	max-height: 250px;
 	max-width: 520px;
-	margin-bottom: 2%;
+	display: block;
+	margin: 0 auto;
 }
 
 .video video
@@ -30,26 +29,7 @@ body
 	margin: 0 auto;
 }
 
-.language nav
 
-{
-	width: 100%;
-	margin-top: 2%;
-}
-
-.language nav a
-
-{
-	font-family: Garamond, Times;
-	color: #333;
-	font-size: 28px;
-	text-decoration: none;
-	text-align: center;
-	display: block;
-	margin: 0 auto;
-	margin-bottom: 2%;
-}
- 
 .intro 
 
 {
@@ -68,6 +48,7 @@ body
 	border: 5px;
 	border-style: dashed;
 	border-color: #333;
+	margin-top: 2%;
 }
 
 .intro h1
@@ -77,24 +58,15 @@ body
 	color: #333;
 	font-size: 36px;
 	text-align: center;
+	margin-top: 3%;
 }
-
-.intro h2
-
-{
-	font-family: Garamond, Times;
-	color: #333;
-	font-size: 28px;
-	text-align: center;
-	margin-top: 2%;
-} 
 
 .hovedpunkter h3
 
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 25px;
+	font-size: 27px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -104,47 +76,30 @@ body
 {
 	font-family: Garamond bold, Times;
 	color: #333;
-	font-size: 18px;
+	font-size: 20px;
 	margin-left: 25%;
 	margin-top: 1%;
 }
 
-.english_hovedpunkter h3
+.intro_tekst h4
 
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 25px;
+	font-size: 20px;
 	text-align: center;
-	margin-top: 3%;
-}
-
-.english_hovedpunkter ol li, .english_hovedpunkter ul li
-
-{
-	font-family: Garamond bold, Times;
-	color: #333;
-	font-size: 18px;
-	margin-left: 23%;
-	margin-top: 1%;
+	margin-top: 4%;
 }
 
 .intro_tekst p
 
 {
-	font-family: Garamond, Times;
+	font-family: Garamond bold, Times;
 	color: #333;
 	font-size: 18px;
-	margin-left: 15%;
-}
-
-.english_intro_tekst p
-
-{
-	font-family: Garamond, Times;
-	color: #333;
-	font-size: 18px;
-	margin-left: 20%;
+	max-width: 100%;
+	margin-left: 24%;
+	margin-top: 2%;
 }
 
 .erfaring img 
@@ -172,6 +127,8 @@ body
 {
 	font-family: Garamond, Times;
 	color: #333;
+	display: block;
+	margin: 0;
 	font-size: 26px;
 	text-align: center;
 	margin-top: 3%;
@@ -183,10 +140,11 @@ body
 	font-family: Garamond, Times;
 	color: #333;
 	font-size: 16px;
-	margin-left: 2%;
+	max-width: 100%;
+	margin-left: 11%;
 } 
 
- .utdanning p, .portfolio p .intro p
+ .utdanning p, .portfolio p 
 
  {
 	font-family: Garamond, Times;
@@ -195,19 +153,9 @@ body
 	text-align: center;
 } 
 
-.utdanning h4
-
-{
-	font-family: Garamond, Times;
-	color: #333;
-	font-size: 20px;
-	text-align: center;
-	margin-top: 4%;
-}
-
 .portfolio a 
 
-{	text-decoration: none;
+{	
 	font-family: Garamond, Times;
 	color: #333;
 	font-size: 24px;
