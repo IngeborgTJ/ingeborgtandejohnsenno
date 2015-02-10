@@ -29,7 +29,6 @@ body
 	margin: 0 auto;
 }
 
-
 .intro 
 
 {
@@ -98,7 +97,7 @@ body
 	color: #333;
 	font-size: 18px;
 	max-width: 100%;
-	margin-left: 24%;
+	margin-left: 22%;
 	margin-top: 2%;
 }
 
@@ -141,7 +140,7 @@ body
 	color: #333;
 	font-size: 16px;
 	max-width: 100%;
-	margin-left: 8%;
+	margin-left: 12%;
 } 
 
  .utdanning p, .portfolio p 
