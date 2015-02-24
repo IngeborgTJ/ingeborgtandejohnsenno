@@ -4,6 +4,7 @@ body
 	background-color: #e8ddce;
 	max-width: 100%;
 	max-height: 100%;
+   
 }
 
 .conttent_wrapper 
@@ -13,14 +14,6 @@ body
 	height: 100%;
 }
 
-.twitter-timeline
-
-{
-	max-height: 250px;
-	max-width: 520px;
-	display: block;
-	margin: 0 auto;
-}
 
 .video video
 
@@ -198,7 +191,8 @@ body
 	text-align: center;
 }
 
-.github h3
+
+.github h3, .twitter h3 
 
 {
 	font-family: Garamond, Times;
@@ -206,6 +200,22 @@ body
 	font-size: 24px;
 	text-align: center;
 	margin-top: 5%;
+}
+
+.twitter ul li
+
+{
+	list-style: none;
+}
+
+.twitter li a img 
+
+{
+	max-width: 18%;
+	max-height: 18%;
+	display: block;
+	margin: auto;
+	margin-top: 4%;
 }
 
 .github ul li
