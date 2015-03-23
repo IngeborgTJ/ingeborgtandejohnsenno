@@ -1,9 +1,11 @@
-body 
+ body 
 
 {
 	background-color: #e8ddce;
 	max-width: 100%;
 	max-height: 100%;
+	min-width: 50%;
+	max-height: 50%;
    
 }
 
@@ -12,6 +14,8 @@ body
 {
 	width: 100%;
 	height: 100%;
+	min-width: 50%;
+	max-height: 50%; 
 }
 
 
@@ -33,8 +37,8 @@ body
 .intro img
 
 {
-	max-width: 30%;
-	max-height: 30%;
+	max-width: 40%;
+	max-height: 40%;
 	margin: 0 auto;
 	display: block;
 	border: 5px;
@@ -107,8 +111,8 @@ body
 .erfaring img 
 
 {
-	max-width: 20%;
-	max-height: 20%;
+	max-width: 30%;
+	max-height: 30%;
 	display: block;
 	margin: auto;
 	margin-top: 5%;
@@ -117,8 +121,8 @@ body
 .utdanning img 
 
 {
-	max-width: 50%;
-	max-height: 50%;
+	max-width: 30%;
+	max-height: 30%;
 	display: block;
 	margin: auto;
 	margin-top: 3%;
@@ -221,8 +225,8 @@ body
 .twitter li a img 
 
 {
-	max-width: 18%;
-	max-height: 18%;
+	max-width: 17%;
+	max-height: 17%;
 	display: block;
 	margin: auto;
 	margin-top: 4%;
@@ -237,8 +241,8 @@ body
 .github li a img 
 
 {
-	max-width: 15%;
-	max-height: 15%;
+	max-width: 20%;
+	max-height: 20%;
 	display: block;
 	margin: auto;
 	margin-top: 4%;
