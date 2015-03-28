@@ -37,8 +37,8 @@
 .intro img
 
 {
-	max-width: 40%;
-	max-height: 40%;
+	max-width: 33%;
+	max-height: 35%;
 	margin: 0 auto;
 	display: block;
 	border: 5px;
@@ -52,7 +52,7 @@
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 36px;
+	font-size: 30px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -83,8 +83,8 @@
 	font-family: Garamond bold, Times;
 	color: #333;
 	font-size: 20px;
-	margin-left: 25%;
-	margin-top: 1%;
+	margin-left: 23%;
+	margin-top: 1.5%;
 }
 
 .intro_tekst h4
@@ -105,27 +105,102 @@
 	font-size: 18px;
 	max-width: 100%;
 	margin-left: 22%;
+	margin-top: 3%;
+}
+
+
+.kurs img
+
+{
+	max-width: 100%;
+	max-height: 100%;
+	display: block;
+	margin-left: 46%;
+}
+
+.kurs h3
+
+{
+	font-family: Garamond bold, Times;
+	color: #333;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 3%;
+}
+
+.kurs #kursliste ul 
+
+{
+	list-style-type: circle;
+	margin-left: 18%;
+}
+
+.kurs #kursliste ul li
+
+{	
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 20px;
 	margin-top: 2%;
+}
+
+.kurs #kursliste ul li a
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 20px;
+}
+
+.kurs h4
+
+{
+	font-family: Garamond bold, Times;
+	color: #333;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 3%;
+}
+
+.kurs p
+
+{
+	font-family: Garamond bold, Times;
+	color: #333;
+	font-size: 18px;
+	margin-left: 4.5%;
+	margin-top: 3%;
+}	
+
+.kurs #lover p
+
+{
+	font-family: Garamond bold, Times;
+	color: #333;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 3%;
 }
 
 .erfaring img 
 
 {
-	max-width: 30%;
-	max-height: 30%;
+	max-width: 25%;
+	max-height: 25%;
 	display: block;
 	margin: auto;
 	margin-top: 5%;
 }
 
+
 .utdanning img 
 
 {
-	max-width: 30%;
-	max-height: 30%;
+	max-width: 25%;
+	max-height: 25%;
 	display: block;
 	margin: auto;
-	margin-top: 3%;
+	margin-top: 4%;
 }
 
 .erfaring h4, .utdanning h4, .portfolio h5 
@@ -164,7 +239,7 @@
 {	
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 22px;
+	font-size: 24px;
 	margin-bottom: 5%;
 }
 
@@ -241,8 +316,8 @@
 .github li a img 
 
 {
-	max-width: 20%;
-	max-height: 20%;
+	max-width: 15%;
+	max-height: 15%;
 	display: block;
 	margin: auto;
 	margin-top: 4%;
