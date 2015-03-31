@@ -19,13 +19,6 @@
 }
 
 
-.video video
-
-{
-	display: block;
-	margin: 0 auto;
-}
-
 .intro 
 
 {
@@ -132,7 +125,7 @@
 
 {
 	list-style-type: circle;
-	margin-left: 18%;
+	margin-left: 22%;
 }
 
 .kurs #kursliste ul li
@@ -239,7 +232,7 @@
 {	
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 24px;
+	font-size: 26px;
 	margin-bottom: 5%;
 }
 
