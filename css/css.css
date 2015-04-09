@@ -18,6 +18,12 @@
 	max-height: 50%; 
 }
 
+#twitter-widget-0 
+
+{ 
+      width: 50%; 
+}
+
 
 .intro 
 
@@ -70,6 +76,7 @@
 	text-align: center;
 	margin-top: 3%;
 }
+
 .hovedpunkter ol li, .hovedpunkter ul li
 
 {
@@ -274,7 +281,7 @@
 }
 
 
-.github h5, .twitter h5 
+.github h5 
 
 {
 	font-family: Garamond, Times;
@@ -282,22 +289,6 @@
 	font-size: 24px;
 	text-align: center;
 	margin-top: 5%;
-}
-
-.twitter ul li
-
-{
-	list-style: none;
-}
-
-.twitter li a img 
-
-{
-	max-width: 19%;
-	max-height: 19%;
-	display: block;
-	margin: auto;
-	margin-top: 4%;
 }
 
 .github ul li
