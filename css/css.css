@@ -21,7 +21,13 @@
 #twitter-widget-0 
 
 { 
-      width: 50%; 
+      width: 100% !important;
+}
+
+#twitter-widget-0.tweet  
+
+{
+      padding: 12px 10px 10px 69px !important;
 }
 
 
