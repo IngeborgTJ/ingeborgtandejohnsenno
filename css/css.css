@@ -21,7 +21,8 @@
 #twitter-widget-0 
 
 { 
-      width: 100% !important;
+      width: 90% !important;
+      
 }
 
 #twitter-widget-0.tweet  
@@ -37,6 +38,7 @@
 	max-width: 100%;
 	max-height: 100%;
 }
+
 
 
 .intro img
