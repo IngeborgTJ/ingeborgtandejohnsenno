@@ -4,9 +4,7 @@
 	background-color: #e8ddce;
 	max-width: 100%;
 	max-height: 100%;
-	min-width: 50%;
-	max-height: 50%;
-   
+	
 }
 
 .conttent_wrapper 
@@ -14,23 +12,7 @@
 {
 	width: 100%;
 	height: 100%;
-	min-width: 50%;
-	max-height: 50%; 
 }
-
-#twitter-widget-0 
-
-{ 
-      width: 90% !important;
-      
-}
-
-#twitter-widget-0.tweet  
-
-{
-      padding: 12px 10px 10px 69px !important;
-}
-
 
 .intro 
 
@@ -39,13 +21,23 @@
 	max-height: 100%;
 }
 
+#twitter-widget-0 
 
+{ 
+      width: 90% !important; 
+}
+
+#twitter-widget-0.tweet  
+
+{
+      padding: 12px 12px 10px 29px !important; 
+}
 
 .intro img
 
 {
-	max-width: 33%;
-	max-height: 35%;
+	width: 35%;
+	height: 35%;
 	margin: 0 auto;
 	display: block;
 	border: 5px;
@@ -59,7 +51,7 @@
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 30px;
+	font-size: 28px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -69,7 +61,7 @@
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 27px;
+	font-size: 25px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -80,7 +72,7 @@
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 25px;
+	font-size: 21px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -100,9 +92,9 @@
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
-	margin-top: 4%;
+	margin-top: 3%;
 }
 
 .intro_tekst p
@@ -112,10 +104,39 @@
 	color: #333;
 	font-size: 18px;
 	max-width: 100%;
+	width: 84%;
 	margin-left: 20%;
 	margin-top: 3%;
 }
 
+.erfaring img 
+
+{
+	width: 25%;
+	height: 25%;
+	display: block;
+	margin: auto;
+	margin-top: 5%;
+}
+
+.erfaring h4, .utdanning h4, .portfolio h5 
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 26px;
+	text-align: center;
+	margin-top: 3%;
+}
+
+.erfaring p
+
+{
+	font-family: Garamond, Times;
+	color: #333;
+	font-size: 16px;
+	margin-left: 8%;
+} 
 
 .kurs img
 
@@ -123,7 +144,8 @@
 	max-width: 100%;
 	max-height: 100%;
 	display: block;
-	margin-left: 46%;
+	margin: 0 auto;
+	margin-top: 2%;
 }
 
 .kurs h3
@@ -131,7 +153,7 @@
 {
 	font-family: Garamond bold, Times;
 	color: #333;
-	font-size: 25px;
+	font-size: 21px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -159,79 +181,16 @@
 	color: #333;
 	font-size: 20px;
 }
-
-.kurs h4
-
-{
-	font-family: Garamond bold, Times;
-	color: #333;
-	font-size: 20px;
-	text-align: center;
-	margin-top: 3%;
-}
-
-.kurs p
-
-{
-	font-family: Garamond bold, Times;
-	color: #333;
-	font-size: 18px;
-	margin-left: 4.5%;
-	margin-top: 3%;
-}	
-
-.kurs #lover p
-
-{
-	font-family: Garamond bold, Times;
-	color: #333;
-	font-size: 18px;
-	text-align: center;
-	margin-top: 3%;
-}
-
-.erfaring img 
-
-{
-	max-width: 25%;
-	max-height: 25%;
-	display: block;
-	margin: auto;
-	margin-top: 5%;
-}
-
-
+ 
 .utdanning img 
 
 {
-	max-width: 25%;
-	max-height: 25%;
+	width: 25%;
+	height: 25%;
 	display: block;
 	margin: auto;
-	margin-top: 4%;
+	margin-top: 6%;
 }
-
-.erfaring h4, .utdanning h4, .portfolio h5 
-
-{
-	font-family: Garamond, Times;
-	color: #333;
-	display: block;
-	margin: 0;
-	font-size: 26px;
-	text-align: center;
-	margin-top: 3%;
-}
-
-.erfaring p
-
-{
-	font-family: Garamond, Times;
-	color: #333;
-	font-size: 16px;
-	max-width: 100%;
-	margin-left: 12%;
-} 
 
  .utdanning p, .portfolio p 
 
@@ -308,8 +267,8 @@
 .github li a img 
 
 {
-	max-width: 15%;
-	max-height: 15%;
+	width: 14%;
+	height: 14%;
 	display: block;
 	margin: auto;
 	margin-top: 4%;
