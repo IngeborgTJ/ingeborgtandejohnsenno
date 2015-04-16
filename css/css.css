@@ -102,11 +102,9 @@
 {
 	font-family: Garamond bold, Times;
 	color: #333;
-	font-size: 18px;
-	max-width: 100%;
-	width: 84%;
-	margin-left: 20%;
-	margin-top: 3%;
+	font-size: 17px;
+	margin-left: 23%;
+	margin-top: 2%;
 }
 
 .erfaring img 
@@ -148,7 +146,7 @@
 	margin-top: 2%;
 }
 
-.kurs h3
+.kurs h3, .erfaring h3, .utdanning h3 
 
 {
 	font-family: Garamond bold, Times;
@@ -210,6 +208,12 @@
 	margin-bottom: 5%;
 }
 
+.kontakt 
+
+{
+	width: 100%;
+}
+
 .kontakt h5
 
 {
@@ -247,7 +251,6 @@
 	text-align: center;
 }
 
-
 .github h5 
 
 {
@@ -270,6 +273,6 @@
 	width: 14%;
 	height: 14%;
 	display: block;
-	margin: auto;
+	margin: 0 auto;
 	margin-top: 4%;
 }
