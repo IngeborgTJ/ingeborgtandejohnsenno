@@ -36,8 +36,8 @@
 .intro img
 
 {
-	width: 35%;
-	height: 35%;
+	width: 45%;
+	height: auto;
 	margin: 0 auto;
 	display: block;
 	border: 5px;
@@ -87,7 +87,7 @@
 	margin-top: 2.5%;
 }
 
-.intro_tekst h4
+.intro_tekst h3
 
 {
 	font-family: Garamond, Times;
@@ -103,7 +103,7 @@
 	font-family: Garamond bold, Times;
 	color: #333;
 	font-size: 18px;
-	margin-left: 22%;
+	margin-left: 21%;
 	margin-top: 2%;
 }
 
@@ -133,7 +133,7 @@
 	font-family: Garamond, Times;
 	color: #333;
 	font-size: 18px;
-	margin-left: 8%;
+	margin-left: 2%;
 } 
 
 .kurs img
@@ -270,8 +270,8 @@
 .github li a img 
 
 {
-	width: 14%;
-	height: 14%;
+	width: 18%;
+	height: 18%;
 	display: block;
 	margin: 0 auto;
 	margin-top: 4%;
