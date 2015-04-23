@@ -51,7 +51,7 @@
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 28px;
+	font-size: 30px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -61,7 +61,7 @@
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 25px;
+	font-size: 28px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -72,7 +72,7 @@
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 21px;
+	font-size: 24px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -82,7 +82,7 @@
 {
 	font-family: Garamond bold, Times;
 	color: #333;
-	font-size: 20px;
+	font-size: 23px;
 	margin-left: 23%;
 	margin-top: 2.5%;
 }
@@ -92,7 +92,7 @@
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 18px;
+	font-size: 21px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -102,7 +102,7 @@
 {
 	font-family: Garamond bold, Times;
 	color: #333;
-	font-size: 17px;
+	font-size: 18px;
 	margin-left: 22%;
 	margin-top: 2%;
 }
@@ -132,7 +132,7 @@
 {
 	font-family: Garamond, Times;
 	color: #333;
-	font-size: 16px;
+	font-size: 18px;
 	margin-left: 8%;
 } 
 
@@ -151,7 +151,7 @@
 {
 	font-family: Garamond bold, Times;
 	color: #333;
-	font-size: 21px;
+	font-size: 24px;
 	text-align: center;
 	margin-top: 3%;
 }
@@ -160,7 +160,7 @@
 
 {
 	list-style-type: circle;
-	margin-left: 23.5%;
+	margin-left: 24.5%;
 }
 
 .kurs #kursliste ul li
