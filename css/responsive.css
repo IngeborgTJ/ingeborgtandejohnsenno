@@ -21,7 +21,8 @@
 #twitter-widget-0 
 
 { 
-      width: 100% !important; 
+      width: 100% !important;
+      height: 30%; 
 }
 
 #twitter-widget-0.tweet  
@@ -164,6 +165,11 @@
 	text-align: center;
 }
 
+.github ul li
+
+{
+	list-style: none;
+}
 
 .github h5 
 
@@ -175,11 +181,12 @@
 	margin-top: 5%;
 }
 
-.github ul li
+.github li a img 
 
 {
-	list-style: none;
+	width: 16%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+	margin-top: 4%;
 }
-
-
-
