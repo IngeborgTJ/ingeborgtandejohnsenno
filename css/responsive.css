@@ -34,13 +34,10 @@
 .intro img
 
 {
-	width: 50%;
+	width: 20%;
 	height: auto;
 	margin: 0 auto;
 	display: block;
-	border: 5px;
-	border-style: dashed;
-	border-color: #333;
 	margin-top: 2%;
 }
 
