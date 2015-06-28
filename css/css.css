@@ -4,7 +4,15 @@
 	background-color: #e8ddce;
 	max-width: 100%;
 	max-height: 100%;
-	
+}
+
+
+.twitter img
+
+{
+	width: 75%;
+	display: block;
+	margin: 0 auto;
 }
 
 .conttent_wrapper 
@@ -21,17 +29,6 @@
 	max-height: 100%;
 }
 
-#twitter-widget-0 
-
-{ 
-      width: 90% !important;
-}
-
-#twitter-widget-0.tweet  
-
-{
-      padding: 12px 12px 10px 29px !important; 
-}
 
 .intro img
 
@@ -62,6 +59,7 @@
 	text-align: center;
 	margin-top: 3%;
 }
+
 .hovedpunkter h2
 
 {

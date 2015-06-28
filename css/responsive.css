@@ -4,6 +4,14 @@
 	background-color: #e8ddce;	
 }
 
+.twitter img
+
+{
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+}
+
 .conttent_wrapper 
 
 {
@@ -18,18 +26,6 @@
 	max-height: 100%;
 }
 
-#twitter-widget-0 
-
-{ 
-      width: 100% !important; 
-}
-
-#twitter-widget-0.tweet  
-
-{
-      padding: 12px 12px 12px 29px !important;
-      margin: 0; 
-}
 
 .intro img
 
