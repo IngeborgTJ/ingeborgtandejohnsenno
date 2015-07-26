@@ -7,13 +7,7 @@
 }
 
 
-.twitter img
 
-{
-	width: 75%;
-	display: block;
-	margin: 0 auto;
-}
 
 .conttent_wrapper 
 
@@ -164,7 +158,7 @@
 
 {
 	list-style-type: circle;
-	margin-left: 23.5%;
+	margin-left: 24%;
 }
 
 .kurs #kursliste ul li
@@ -279,4 +273,12 @@
 	display: block;
 	margin: 0 auto;
 	margin-top: 4%;
+}
+
+.twitter img
+
+{
+	width: 75%;
+	margin-left: 15%;
+	margin-bottom: 10%;
 }
