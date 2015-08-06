@@ -104,6 +104,7 @@
 	font-family: Garamond, Times;
 	color: #333;
 	font-size: 22px;
+	display: block;
 	text-align: center;
 }
 
@@ -111,8 +112,8 @@
 .erfaring img 
 
 {
-	width: 25%;
-	height: 25%;
+	width: 30%;
+	height: 30%;
 	display: block;
 	margin: auto;
 	margin-top: 5%;
