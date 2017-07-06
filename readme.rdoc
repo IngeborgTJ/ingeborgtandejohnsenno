@@ -1,4 +1,4 @@
 === Ingeborg Tande Johnsen - http://ingeborgtandejohnsen.no
 
-Vil du se hva jeg jobber med? Se: ingeborgtandejohnsen.no og blogg.ingeborgtandejohnsen.no. Denne siden er laget med One.com sin publiseringsløsning og derfor er det ikke gjort commit på to år, da dette gjøres automatisk i deres løsning på en privat Github konto. Disse sidene oppdateres fortløpende!   
-PS! The webpage is in Norwegian.
+Dette er gammel versjon av ingeborgtandejohnsen.no. Bruker nå egen nettløsning. Jeg jobber som konsptdesigner med hovedfokus på universell utforming hos Halogen. For prosjekt henvendelser ta kontakt med Halogen - link er på siden. Se http://ingeborgtandejohnsen.no for mer informasjon.
+  
